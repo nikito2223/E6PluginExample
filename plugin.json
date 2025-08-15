@@ -1,0 +1,7 @@
+{
+  "id": "0",
+  "name": "Awesome Plugin",
+  "description": "Расширяет возможности редактора",
+  "icon": "icon.png",
+  "entry": "index.js"
+}
