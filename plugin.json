@@ -1,7 +1,9 @@
-{
-  "id": "0",
-  "name": "Awesome Plugin",
-  "description": "Расширяет возможности редактора",
-  "icon": "icon.png",
-  "entry": "index.js"
-}
+module.exports = [
+    {
+        icon: "icon.png",
+        id: "plugin-1",
+        name: "Awesome Plugin",
+        description: "Расширяет возможности редактора",
+        enabled: false
+    }
+];
